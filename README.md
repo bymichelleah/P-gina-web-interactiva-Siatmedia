@@ -1,2 +1,2 @@
-# P-gina-web-interactiva-Siatmedia
+# Pagina-web-interactiva-Siatmedia
 Proyecto de una página web
